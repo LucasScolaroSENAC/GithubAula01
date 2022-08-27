@@ -5,18 +5,16 @@
  */
 package githubaula01;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Suporte
  */
-public class GitHubAula01 {
-
-    /**
-     * @param args the command line arguments
-     */
+public class Carro {
+    
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("Bem vindo ao Git");
+        Scanner leia = new Scanner(System.in);
     }
     
 }
